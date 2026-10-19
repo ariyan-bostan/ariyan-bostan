@@ -1,4 +1,4 @@
-# Hi, I'm Arin Bostan 👋
+# Hi, I'm Ariyan Bostan 👋
 
 ### Frontend Developer | React.js · TypeScript · Next.js
 
