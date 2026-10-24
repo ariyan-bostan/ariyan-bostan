@@ -110,6 +110,9 @@ A responsive e-commerce web application built with React and TypeScript, featuri
   <a href="https://www.linkedin.com/in/ariyan-bostan-729a45331/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://t.me/webDevLoop1">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 ---
